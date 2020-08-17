@@ -1,0 +1,10 @@
+{
+    "veiculo" : "uno",
+    "marca" : "fiat",
+    "ano" : 1995,
+    "descricao" : "texto",
+    "vendido" : false,
+    "created": "2020-02-20",
+    "updated": "2020-02-20"
+
+}
